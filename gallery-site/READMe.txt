@@ -1,0 +1,2 @@
+This is a Gallery Site that i made using HTML,CSS, and JQuery with help from the Webshala Youtube Tutorial Page. This was made to showcase my understanding of front-end delvopment specifically the lightbox concept and the flex-grid concepts.
+ For any job queires or postings please contact me @eboaboakye@gmail.com
